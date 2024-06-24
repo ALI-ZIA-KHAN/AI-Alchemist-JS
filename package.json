@@ -1,0 +1,20 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.2.13",
+    "dotenv": "^16.4.5",
+    "ignore": "^5.3.1",
+    "langchain": "^0.2.6",
+    "pdf-parse": "^1.1.1"
+  },
+  "type": "module"
+}
